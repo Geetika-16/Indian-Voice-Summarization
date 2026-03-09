@@ -1,0 +1,44 @@
+==============================================
+ Indian Regional Language Voice Summarization
+ Supports Tamil, Hindi, Telugu, English etc.
+==============================================
+
+Welcome to the Indian Voice Summarization
+Listening...
+Processing audio...
+C:\Users\geeti\AppData\Roaming\Python\Python310\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+Detected Language Code: ta
+Original Text:
+ நீ அழகாக விகிராய்
+
+Transcription saved to transcription.txt
+
+Detected Language Code: ta
+
+Translated Text (English):
+English Text: You look beautiful
+llama_perf_context_print:        load time =    1771.46 ms
+llama_perf_context_print: prompt eval time =    1769.71 ms /    23 tokens (   76.94 ms per token,    13.00 tokens per second)
+llama_perf_context_print:        eval time =   25828.79 ms /   158 runs   (  163.47 ms per token,     6.12 tokens per second)
+llama_perf_context_print:       total time =   27735.15 ms /   181 tokens
+llama_perf_context_print:    graphs reused =        152
+
+--- English Summary ---
+I love your smile
+Your eyes are so bright
+You have such a pretty face
+You are so sweet
+You are so kind to me
+You are so sweet to me
+You are so thoughtful to me
+You are so considerate to me
+You are so caring to me
+You are so loving to me
+
+The above text is a series of compliments being given to someone. Each compliment is a statement of admiration and appreciation for the person's appearance or personality. The compliments are all positive and uplifting, and are meant to make the person feel good about themselves.
+
+Do you want the summary in another language? (yes/no): no
+
+Thank you for using Indian Voice Summarization System.
